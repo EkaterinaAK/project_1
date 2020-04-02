@@ -1,0 +1,18 @@
+h1{
+    color:rgb(82, 17, 76);
+}
+p{
+    color:rgb(14, 117, 201);
+}
+.desc{
+    color:rgb(76, 221, 100);
+    font-size: 50px;
+}
+.photo{
+    width: 800px;
+    height: 300px;
+    object-fit: cover;
+}
+div{
+    border: 5px solid rgb(104, 22, 22);
+}
